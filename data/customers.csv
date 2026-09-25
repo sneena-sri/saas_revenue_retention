@@ -1,0 +1,710 @@
+﻿Customers,,,,,,
+customer_id,signup_date,signup_month,initial_plan,billing_cycle,acquisition_channel,region
+CUST0001,2023-01-09,2023-01,Growth,Monthly,Paid Ads,South
+CUST0002,2023-01-24,2023-01,Starter,Monthly,Partner,North
+CUST0003,2023-01-03,2023-01,Growth,Monthly,Paid Ads,South
+CUST0004,2023-01-07,2023-01,Growth,Monthly,Partner,West
+CUST0005,2023-01-26,2023-01,Starter,Monthly,Organic Search,South
+CUST0006,2023-01-05,2023-01,Growth,Monthly,Paid Ads,East
+CUST0007,2023-01-12,2023-01,Starter,Monthly,Referral,International
+CUST0008,2023-01-15,2023-01,Starter,Monthly,Partner,North
+CUST0009,2023-01-18,2023-01,Enterprise,Monthly,Referral,International
+CUST0010,2023-01-07,2023-01,Pro,Monthly,Organic Search,North
+CUST0011,2023-01-03,2023-01,Growth,Annual,Paid Ads,North
+CUST0012,2023-01-27,2023-01,Starter,Monthly,Referral,South
+CUST0013,2023-01-09,2023-01,Starter,Monthly,Organic Search,International
+CUST0014,2023-01-08,2023-01,Growth,Monthly,Paid Ads,West
+CUST0015,2023-01-21,2023-01,Starter,Annual,Partner,South
+CUST0016,2023-01-25,2023-01,Growth,Annual,Organic Search,South
+CUST0017,2023-01-13,2023-01,Pro,Annual,Referral,North
+CUST0018,2023-01-29,2023-01,Starter,Annual,Referral,South
+CUST0019,2023-01-30,2023-01,Growth,Monthly,Outbound Sales,South
+CUST0020,2023-01-18,2023-01,Starter,Monthly,Partner,East
+CUST0021,2023-01-19,2023-01,Growth,Monthly,Outbound Sales,East
+CUST0022,2023-01-17,2023-01,Starter,Annual,Outbound Sales,North
+CUST0023,2023-01-05,2023-01,Pro,Annual,Paid Ads,West
+CUST0024,2023-01-20,2023-01,Growth,Monthly,Outbound Sales,International
+CUST0025,2023-01-31,2023-01,Starter,Monthly,Organic Search,North
+CUST0026,2023-01-09,2023-01,Growth,Monthly,Referral,North
+CUST0027,2023-01-01,2023-01,Starter,Monthly,Referral,International
+CUST0028,2023-01-04,2023-01,Pro,Monthly,Referral,International
+CUST0029,2023-01-25,2023-01,Growth,Monthly,Paid Ads,International
+CUST0030,2023-01-30,2023-01,Enterprise,Annual,Organic Search,International
+CUST0031,2023-01-30,2023-01,Starter,Monthly,Referral,East
+CUST0032,2023-01-19,2023-01,Starter,Monthly,Organic Search,North
+CUST0033,2023-01-25,2023-01,Growth,Annual,Partner,South
+CUST0034,2023-02-18,2023-02,Starter,Monthly,Paid Ads,East
+CUST0035,2023-02-07,2023-02,Growth,Monthly,Partner,South
+CUST0036,2023-02-22,2023-02,Growth,Monthly,Referral,West
+CUST0037,2023-02-08,2023-02,Pro,Monthly,Paid Ads,North
+CUST0038,2023-02-08,2023-02,Starter,Monthly,Unknown,South
+CUST0039,2023-02-02,2023-02,Starter,Annual,Paid Ads,North
+CUST0040,2023-02-03,2023-02,Pro,Annual,Partner,South
+CUST0041,2023-02-18,2023-02,Starter,Monthly,Paid Ads,International
+CUST0042,2023-02-16,2023-02,Growth,Monthly,Outbound Sales,South
+CUST0043,2023-02-12,2023-02,Starter,Monthly,Outbound Sales,West
+CUST0044,2023-02-22,2023-02,Growth,Annual,Organic Search,North
+CUST0045,2023-02-28,2023-02,Starter,Monthly,Organic Search,South
+CUST0046,2023-02-05,2023-02,Starter,Monthly,Outbound Sales,South
+CUST0047,2023-02-03,2023-02,Starter,Monthly,Outbound Sales,International
+CUST0048,2023-02-18,2023-02,Starter,Monthly,Organic Search,North
+CUST0049,2023-02-06,2023-02,Pro,Annual,Outbound Sales,West
+CUST0050,2023-02-02,2023-02,Growth,Annual,Paid Ads,West
+CUST0051,2023-02-26,2023-02,Starter,Monthly,Outbound Sales,East
+CUST0052,2023-02-26,2023-02,Starter,Annual,Partner,West
+CUST0053,2023-02-02,2023-02,Starter,Monthly,Partner,International
+CUST0054,2023-02-02,2023-02,Starter,Monthly,Partner,West
+CUST0055,2023-02-06,2023-02,Growth,Annual,Organic Search,International
+CUST0056,2023-02-20,2023-02,Starter,Monthly,Organic Search,South
+CUST0057,2023-03-19,2023-03,Starter,Annual,Paid Ads,International
+CUST0058,2023-03-14,2023-03,Growth,Monthly,Partner,International
+CUST0059,2023-03-07,2023-03,Growth,Annual,Referral,South
+CUST0060,2023-03-21,2023-03,Starter,Monthly,Referral,West
+CUST0061,2023-03-03,2023-03,Starter,Annual,Organic Search,West
+CUST0062,2023-03-04,2023-03,Growth,Monthly,Organic Search,International
+CUST0063,2023-03-30,2023-03,Starter,Monthly,Referral,North
+CUST0064,2023-03-06,2023-03,Pro,Monthly,Outbound Sales,International
+CUST0065,2023-03-26,2023-03,Growth,Monthly,Partner,North
+CUST0066,2023-03-30,2023-03,Growth,Monthly,Organic Search,South
+CUST0067,2023-03-24,2023-03,Starter,Annual,Partner,South
+CUST0068,2023-03-23,2023-03,Starter,Monthly,Referral,South
+CUST0069,2023-03-17,2023-03,Growth,Annual,Outbound Sales,East
+CUST0070,2023-03-03,2023-03,Pro,Annual,Outbound Sales,East
+CUST0071,2023-03-05,2023-03,Starter,Monthly,Referral,South
+CUST0072,2023-03-14,2023-03,Growth,Monthly,Partner,North
+CUST0073,2023-03-23,2023-03,Starter,Annual,Paid Ads,International
+CUST0074,2023-03-18,2023-03,Starter,Monthly,Paid Ads,West
+CUST0075,2023-03-29,2023-03,Starter,Monthly,Organic Search,East
+CUST0076,2023-03-04,2023-03,Starter,Monthly,Referral,International
+CUST0077,2023-03-20,2023-03,Pro,Monthly,Paid Ads,South
+CUST0078,2023-04-26,2023-04,Pro,Annual,Paid Ads,West
+CUST0079,2023-04-11,2023-04,Starter,Annual,Outbound Sales,South
+CUST0080,2023-04-04,2023-04,Starter,Annual,Outbound Sales,North
+CUST0081,2023-04-27,2023-04,Pro,Monthly,Outbound Sales,East
+CUST0082,2023-04-08,2023-04,Starter,Annual,Paid Ads,North
+CUST0083,2023-04-09,2023-04,Growth,Monthly,Organic Search,East
+CUST0084,2023-04-22,2023-04,Starter,Monthly,Partner,East
+CUST0085,2023-04-09,2023-04,Enterprise,Monthly,Paid Ads,International
+CUST0086,2023-04-04,2023-04,Enterprise,Monthly,Partner,West
+CUST0087,2023-04-14,2023-04,Starter,Annual,Partner,International
+CUST0088,2023-04-07,2023-04,Starter,Annual,Referral,North
+CUST0089,2023-04-30,2023-04,Growth,Monthly,Partner,South
+CUST0090,2023-05-22,2023-05,Starter,Monthly,Referral,International
+CUST0091,2023-05-24,2023-05,Starter,Annual,Referral,International
+CUST0092,2023-05-13,2023-05,Starter,Monthly,Referral,International
+CUST0093,2023-05-31,2023-05,Starter,Monthly,Outbound Sales,South
+CUST0094,2023-05-18,2023-05,Growth,Monthly,Organic Search,East
+CUST0095,2023-05-19,2023-05,Starter,Monthly,Partner,East
+CUST0096,2023-05-07,2023-05,Growth,Monthly,Partner,West
+CUST0097,2023-05-24,2023-05,Pro,Annual,Paid Ads,North
+CUST0098,2023-05-20,2023-05,Starter,Monthly,Referral,North
+CUST0099,2023-05-22,2023-05,Pro,Annual,Referral,South
+CUST0100,2023-05-02,2023-05,Pro,Monthly,Paid Ads,West
+CUST0101,2023-05-15,2023-05,Growth,Annual,Outbound Sales,International
+CUST0102,2023-05-16,2023-05,Starter,Monthly,Outbound Sales,South
+CUST0103,2023-05-29,2023-05,Starter,Monthly,Organic Search,West
+CUST0104,2023-05-23,2023-05,Starter,Annual,Partner,West
+CUST0105,2023-05-28,2023-05,Starter,Monthly,Organic Search,West
+CUST0106,2023-06-17,2023-06,Starter,Monthly,Partner,International
+CUST0107,2023-06-15,2023-06,Starter,Annual,Partner,International
+CUST0108,2023-06-15,2023-06,Starter,Annual,Unknown,West
+CUST0109,2023-06-27,2023-06,Growth,Annual,Referral,Unknown
+CUST0110,2023-06-15,2023-06,Growth,Monthly,Organic Search,East
+CUST0111,2023-06-29,2023-06,Starter,Monthly,Partner,North
+CUST0112,2023-06-23,2023-06,Starter,Monthly,Paid Ads,South
+CUST0113,2023-06-18,2023-06,Starter,Monthly,Outbound Sales,West
+CUST0114,2023-06-13,2023-06,Starter,Annual,Partner,North
+CUST0115,2023-06-13,2023-06,Pro,Annual,Outbound Sales,North
+CUST0116,2023-06-13,2023-06,Enterprise,Monthly,Outbound Sales,International
+CUST0117,2023-06-20,2023-06,Growth,Monthly,Paid Ads,West
+CUST0118,2023-06-01,2023-06,Starter,Monthly,Outbound Sales,East
+CUST0119,2023-06-24,2023-06,Growth,Annual,Paid Ads,West
+CUST0120,2023-06-18,2023-06,Pro,Annual,Organic Search,West
+CUST0121,2023-06-03,2023-06,Growth,Monthly,Outbound Sales,South
+CUST0122,2023-06-09,2023-06,Pro,Monthly,Outbound Sales,East
+CUST0123,2023-06-25,2023-06,Starter,Monthly,Outbound Sales,East
+CUST0124,2023-06-09,2023-06,Pro,Annual,Organic Search,West
+CUST0125,2023-06-12,2023-06,Starter,Monthly,Paid Ads,North
+CUST0126,2023-07-25,2023-07,Pro,Monthly,Organic Search,South
+CUST0127,2023-07-05,2023-07,Starter,Monthly,Paid Ads,South
+CUST0128,2023-07-31,2023-07,Growth,Monthly,Paid Ads,West
+CUST0129,2023-07-06,2023-07,Growth,Annual,Partner,International
+CUST0130,2023-07-25,2023-07,Enterprise,Annual,Paid Ads,East
+CUST0131,2023-07-10,2023-07,Starter,Monthly,Partner,West
+CUST0132,2023-07-03,2023-07,Starter,Annual,Partner,South
+CUST0133,2023-07-28,2023-07,Starter,Annual,Partner,North
+CUST0134,2023-07-02,2023-07,Pro,Monthly,Referral,International
+CUST0135,2023-07-17,2023-07,Starter,Monthly,Referral,North
+CUST0136,2023-07-04,2023-07,Pro,Annual,Outbound Sales,East
+CUST0137,2023-07-23,2023-07,Growth,Annual,Paid Ads,West
+CUST0138,2023-07-21,2023-07,Starter,Monthly,Referral,International
+CUST0139,2023-07-16,2023-07,Pro,Monthly,Outbound Sales,West
+CUST0140,2023-07-11,2023-07,Pro,Monthly,Paid Ads,North
+CUST0141,2023-07-25,2023-07,Starter,Monthly,Outbound Sales,International
+CUST0142,2023-07-01,2023-07,Growth,Monthly,Outbound Sales,East
+CUST0143,2023-08-26,2023-08,Starter,Monthly,Referral,East
+CUST0144,2023-08-29,2023-08,Starter,Monthly,Referral,International
+CUST0145,2023-08-03,2023-08,Starter,Annual,Paid Ads,West
+CUST0146,2023-08-23,2023-08,Growth,Annual,Outbound Sales,West
+CUST0147,2023-08-10,2023-08,Starter,Monthly,Paid Ads,West
+CUST0148,2023-08-19,2023-08,Growth,Monthly,Referral,West
+CUST0149,2023-08-24,2023-08,Growth,Monthly,Partner,East
+CUST0150,2023-08-10,2023-08,Starter,Monthly,Referral,South
+CUST0151,2023-08-04,2023-08,Starter,Monthly,Partner,South
+CUST0152,2023-08-09,2023-08,Starter,Annual,Partner,International
+CUST0153,2023-08-27,2023-08,Growth,Annual,Paid Ads,East
+CUST0154,2023-08-01,2023-08,Starter,Monthly,Partner,South
+CUST0155,2023-08-18,2023-08,Starter,Annual,Referral,South
+CUST0156,2023-08-04,2023-08,Growth,Annual,Organic Search,International
+CUST0157,2023-08-11,2023-08,Starter,Monthly,Paid Ads,North
+CUST0158,2023-08-04,2023-08,Starter,Annual,Organic Search,West
+CUST0159,2023-08-22,2023-08,Growth,Monthly,Organic Search,South
+CUST0160,2023-08-10,2023-08,Starter,Monthly,Organic Search,South
+CUST0161,2023-08-20,2023-08,Starter,Annual,Partner,International
+CUST0162,2023-09-15,2023-09,Starter,Monthly,Outbound Sales,East
+CUST0163,2023-09-10,2023-09,Pro,Annual,Partner,International
+CUST0164,2023-09-04,2023-09,Starter,Annual,Paid Ads,South
+CUST0165,2023-09-08,2023-09,Starter,Monthly,Paid Ads,International
+CUST0166,2023-09-15,2023-09,Starter,Monthly,Partner,West
+CUST0167,2023-09-23,2023-09,Starter,Monthly,Referral,West
+CUST0168,2023-09-09,2023-09,Starter,Monthly,Partner,South
+CUST0169,2023-09-21,2023-09,Starter,Monthly,Paid Ads,East
+CUST0170,2023-09-06,2023-09,Pro,Monthly,Referral,International
+CUST0171,2023-09-10,2023-09,Growth,Monthly,Outbound Sales,North
+CUST0172,2023-09-13,2023-09,Growth,Monthly,Referral,International
+CUST0173,2023-09-20,2023-09,Growth,Monthly,Organic Search,West
+CUST0174,2023-09-01,2023-09,Growth,Monthly,Organic Search,South
+CUST0175,2023-09-19,2023-09,Enterprise,Annual,Partner,North
+CUST0176,2023-09-09,2023-09,Enterprise,Monthly,Partner,North
+CUST0177,2023-09-17,2023-09,Pro,Monthly,Outbound Sales,East
+CUST0178,2023-09-21,2023-09,Starter,Monthly,Outbound Sales,North
+CUST0179,2023-09-11,2023-09,Growth,Monthly,Organic Search,South
+CUST0180,2023-09-10,2023-09,Starter,Monthly,Outbound Sales,International
+CUST0181,2023-09-09,2023-09,Starter,Monthly,Referral,North
+CUST0182,2023-09-17,2023-09,Enterprise,Monthly,Organic Search,International
+CUST0183,2023-09-17,2023-09,Growth,Monthly,Referral,International
+CUST0184,2023-09-25,2023-09,Pro,Monthly,Organic Search,South
+CUST0185,2023-10-10,2023-10,Starter,Monthly,Outbound Sales,West
+CUST0186,2023-10-20,2023-10,Starter,Annual,Paid Ads,South
+CUST0187,2023-10-14,2023-10,Starter,Monthly,Organic Search,South
+CUST0188,2023-10-15,2023-10,Enterprise,Annual,Organic Search,South
+CUST0189,2023-10-17,2023-10,Growth,Annual,Referral,West
+CUST0190,2023-10-08,2023-10,Pro,Annual,Outbound Sales,International
+CUST0191,2023-10-20,2023-10,Starter,Monthly,Partner,South
+CUST0192,2023-10-26,2023-10,Pro,Monthly,Outbound Sales,East
+CUST0193,2023-10-27,2023-10,Enterprise,Monthly,Organic Search,East
+CUST0194,2023-10-19,2023-10,Growth,Annual,Outbound Sales,South
+CUST0195,2023-10-11,2023-10,Starter,Monthly,Partner,International
+CUST0196,2023-10-28,2023-10,Starter,Annual,Paid Ads,South
+CUST0197,2023-10-25,2023-10,Growth,Monthly,Outbound Sales,North
+CUST0198,2023-10-30,2023-10,Starter,Monthly,Outbound Sales,West
+CUST0199,2023-10-21,2023-10,Enterprise,Annual,Paid Ads,West
+CUST0200,2023-10-31,2023-10,Enterprise,Monthly,Partner,East
+CUST0201,2023-10-15,2023-10,Pro,Annual,Organic Search,International
+CUST0202,2023-10-05,2023-10,Pro,Monthly,Outbound Sales,South
+CUST0203,2023-10-09,2023-10,Starter,Annual,Referral,International
+CUST0204,2023-10-28,2023-10,Growth,Monthly,Referral,International
+CUST0205,2023-10-23,2023-10,Starter,Monthly,Outbound Sales,International
+CUST0206,2023-10-21,2023-10,Starter,Monthly,Referral,South
+CUST0207,2023-10-04,2023-10,Growth,Monthly,Organic Search,West
+CUST0208,2023-10-01,2023-10,Starter,Monthly,Organic Search,East
+CUST0209,2023-10-12,2023-10,Pro,Monthly,Outbound Sales,South
+CUST0210,2023-10-22,2023-10,Starter,Monthly,Paid Ads,South
+CUST0211,2023-10-13,2023-10,Starter,Monthly,Partner,South
+CUST0212,2023-10-08,2023-10,Growth,Monthly,Outbound Sales,East
+CUST0213,2023-10-29,2023-10,Growth,Monthly,Outbound Sales,East
+CUST0214,2023-10-15,2023-10,Growth,Monthly,Referral,International
+CUST0215,2023-10-23,2023-10,Starter,Annual,Referral,West
+CUST0216,2023-10-13,2023-10,Pro,Monthly,Outbound Sales,North
+CUST0217,2023-10-19,2023-10,Starter,Monthly,Referral,East
+CUST0218,2023-11-13,2023-11,Starter,Annual,Referral,North
+CUST0219,2023-11-24,2023-11,Growth,Monthly,Organic Search,International
+CUST0220,2023-11-29,2023-11,Growth,Annual,Referral,South
+CUST0221,2023-11-21,2023-11,Growth,Monthly,Paid Ads,International
+CUST0222,2023-11-25,2023-11,Starter,Annual,Unknown,North
+CUST0223,2023-11-10,2023-11,Pro,Monthly,Outbound Sales,North
+CUST0224,2023-11-03,2023-11,Growth,Annual,Referral,East
+CUST0225,2023-11-05,2023-11,Growth,Monthly,Partner,East
+CUST0226,2023-11-27,2023-11,Growth,Annual,Paid Ads,East
+CUST0227,2023-11-26,2023-11,Pro,Annual,Referral,East
+CUST0228,2023-11-03,2023-11,Pro,Monthly,Paid Ads,South
+CUST0229,2023-11-13,2023-11,Pro,Annual,Partner,East
+CUST0230,2023-11-09,2023-11,Starter,Monthly,Partner,North
+CUST0231,2023-11-22,2023-11,Growth,Monthly,Referral,International
+CUST0232,2023-11-12,2023-11,Starter,Monthly,Organic Search,South
+CUST0233,2023-11-18,2023-11,Growth,Monthly,Referral,International
+CUST0234,2023-11-27,2023-11,Starter,Monthly,Outbound Sales,East
+CUST0235,2023-11-02,2023-11,Growth,Monthly,Organic Search,East
+CUST0236,2023-11-08,2023-11,Enterprise,Monthly,Partner,South
+CUST0237,2023-11-24,2023-11,Starter,Monthly,Partner,West
+CUST0238,2023-11-29,2023-11,Growth,Annual,Outbound Sales,North
+CUST0239,2023-11-09,2023-11,Pro,Monthly,Organic Search,East
+CUST0240,2023-12-08,2023-12,Starter,Monthly,Referral,North
+CUST0241,2023-12-29,2023-12,Enterprise,Monthly,Referral,North
+CUST0242,2023-12-04,2023-12,Starter,Monthly,Outbound Sales,North
+CUST0243,2023-12-20,2023-12,Growth,Monthly,Organic Search,North
+CUST0244,2023-12-05,2023-12,Pro,Monthly,Partner,South
+CUST0245,2023-12-07,2023-12,Starter,Annual,Partner,South
+CUST0246,2023-12-25,2023-12,Pro,Monthly,Paid Ads,International
+CUST0247,2023-12-05,2023-12,Starter,Annual,Paid Ads,International
+CUST0248,2023-12-22,2023-12,Starter,Monthly,Organic Search,South
+CUST0249,2023-12-08,2023-12,Starter,Annual,Partner,East
+CUST0250,2023-12-05,2023-12,Starter,Monthly,Outbound Sales,International
+CUST0251,2023-12-15,2023-12,Starter,Monthly,Referral,International
+CUST0252,2023-12-08,2023-12,Growth,Monthly,Partner,North
+CUST0253,2023-12-22,2023-12,Growth,Annual,Partner,East
+CUST0254,2023-12-02,2023-12,Growth,Annual,Outbound Sales,West
+CUST0255,2023-12-23,2023-12,Starter,Monthly,Outbound Sales,North
+CUST0256,2023-12-05,2023-12,Pro,Monthly,Organic Search,South
+CUST0257,2023-12-18,2023-12,Starter,Monthly,Referral,West
+CUST0258,2024-01-15,2024-01,Enterprise,Monthly,Partner,International
+CUST0259,2024-01-04,2024-01,Starter,Annual,Partner,South
+CUST0260,2024-01-14,2024-01,Starter,Annual,Referral,West
+CUST0261,2024-01-11,2024-01,Starter,Annual,Outbound Sales,East
+CUST0262,2024-01-05,2024-01,Growth,Monthly,Outbound Sales,North
+CUST0263,2024-01-14,2024-01,Starter,Monthly,Organic Search,East
+CUST0264,2024-01-19,2024-01,Pro,Monthly,Partner,International
+CUST0265,2024-01-12,2024-01,Starter,Monthly,Outbound Sales,North
+CUST0266,2024-01-12,2024-01,Enterprise,Monthly,Organic Search,International
+CUST0267,2024-01-16,2024-01,Growth,Monthly,Paid Ads,North
+CUST0268,2024-01-04,2024-01,Starter,Monthly,Referral,International
+CUST0269,2024-01-18,2024-01,Starter,Monthly,Partner,International
+CUST0270,2024-01-20,2024-01,Growth,Monthly,Referral,North
+CUST0271,2024-01-10,2024-01,Starter,Annual,Referral,East
+CUST0272,2024-01-19,2024-01,Starter,Annual,Outbound Sales,North
+CUST0273,2024-01-01,2024-01,Starter,Monthly,Organic Search,International
+CUST0274,2024-01-11,2024-01,Starter,Monthly,Paid Ads,Unknown
+CUST0275,2024-01-31,2024-01,Starter,Monthly,Partner,International
+CUST0276,2024-01-06,2024-01,Starter,Monthly,Partner,North
+CUST0277,2024-01-22,2024-01,Growth,Monthly,Outbound Sales,West
+CUST0278,2024-01-07,2024-01,Growth,Monthly,Partner,North
+CUST0279,2024-01-22,2024-01,Starter,Monthly,Partner,West
+CUST0280,2024-02-08,2024-02,Growth,Monthly,Outbound Sales,International
+CUST0281,2024-02-07,2024-02,Starter,Monthly,Paid Ads,East
+CUST0282,2024-02-16,2024-02,Starter,Monthly,Outbound Sales,South
+CUST0283,2024-02-08,2024-02,Starter,Monthly,Partner,International
+CUST0284,2024-02-03,2024-02,Pro,Annual,Outbound Sales,North
+CUST0285,2024-02-03,2024-02,Starter,Monthly,Referral,International
+CUST0286,2024-02-21,2024-02,Starter,Monthly,Outbound Sales,East
+CUST0287,2024-02-11,2024-02,Starter,Monthly,Paid Ads,International
+CUST0288,2024-02-12,2024-02,Growth,Monthly,Organic Search,West
+CUST0289,2024-02-19,2024-02,Pro,Monthly,Outbound Sales,International
+CUST0290,2024-02-24,2024-02,Starter,Annual,Referral,South
+CUST0291,2024-02-17,2024-02,Starter,Monthly,Organic Search,International
+CUST0292,2024-02-12,2024-02,Growth,Annual,Referral,South
+CUST0293,2024-02-07,2024-02,Starter,Monthly,Paid Ads,International
+CUST0294,2024-02-03,2024-02,Starter,Annual,Paid Ads,West
+CUST0295,2024-02-19,2024-02,Growth,Monthly,Outbound Sales,International
+CUST0296,2024-03-11,2024-03,Growth,Annual,Referral,South
+CUST0297,2024-03-21,2024-03,Starter,Monthly,Referral,East
+CUST0298,2024-03-03,2024-03,Growth,Monthly,Referral,West
+CUST0299,2024-03-27,2024-03,Growth,Monthly,Referral,North
+CUST0300,2024-03-03,2024-03,Growth,Annual,Partner,International
+CUST0301,2024-03-18,2024-03,Growth,Monthly,Organic Search,West
+CUST0302,2024-03-07,2024-03,Pro,Monthly,Referral,International
+CUST0303,2024-03-02,2024-03,Growth,Monthly,Outbound Sales,North
+CUST0304,2024-03-23,2024-03,Pro,Annual,Organic Search,International
+CUST0305,2024-03-23,2024-03,Growth,Monthly,Outbound Sales,West
+CUST0306,2024-03-12,2024-03,Growth,Monthly,Referral,East
+CUST0307,2024-03-22,2024-03,Starter,Annual,Partner,North
+CUST0308,2024-03-03,2024-03,Pro,Monthly,Referral,North
+CUST0309,2024-03-09,2024-03,Growth,Monthly,Partner,South
+CUST0310,2024-03-05,2024-03,Starter,Monthly,Referral,East
+CUST0311,2024-03-13,2024-03,Enterprise,Monthly,Paid Ads,International
+CUST0312,2024-03-18,2024-03,Growth,Monthly,Outbound Sales,East
+CUST0313,2024-03-27,2024-03,Pro,Monthly,Partner,North
+CUST0314,2024-04-12,2024-04,Growth,Monthly,Organic Search,East
+CUST0315,2024-04-11,2024-04,Starter,Annual,Outbound Sales,South
+CUST0316,2024-04-03,2024-04,Starter,Monthly,Referral,North
+CUST0317,2024-04-24,2024-04,Growth,Monthly,Partner,North
+CUST0318,2024-04-20,2024-04,Growth,Annual,Paid Ads,International
+CUST0319,2024-04-27,2024-04,Starter,Monthly,Partner,South
+CUST0320,2024-04-12,2024-04,Growth,Monthly,Paid Ads,West
+CUST0321,2024-04-26,2024-04,Growth,Annual,Outbound Sales,South
+CUST0322,2024-04-26,2024-04,Growth,Monthly,Outbound Sales,South
+CUST0323,2024-04-15,2024-04,Starter,Annual,Outbound Sales,East
+CUST0324,2024-04-14,2024-04,Pro,Monthly,Paid Ads,South
+CUST0325,2024-04-09,2024-04,Pro,Monthly,Organic Search,West
+CUST0326,2024-05-04,2024-05,Pro,Monthly,Partner,North
+CUST0327,2024-05-09,2024-05,Starter,Annual,Outbound Sales,International
+CUST0328,2024-05-31,2024-05,Starter,Monthly,Paid Ads,West
+CUST0329,2024-05-14,2024-05,Pro,Annual,Organic Search,West
+CUST0330,2024-05-03,2024-05,Growth,Monthly,Referral,South
+CUST0331,2024-05-27,2024-05,Starter,Annual,Referral,South
+CUST0332,2024-05-27,2024-05,Starter,Monthly,Outbound Sales,South
+CUST0333,2024-05-20,2024-05,Pro,Monthly,Organic Search,North
+CUST0334,2024-05-05,2024-05,Starter,Monthly,Partner,International
+CUST0335,2024-05-10,2024-05,Growth,Monthly,Paid Ads,East
+CUST0336,2024-05-21,2024-05,Starter,Monthly,Partner,West
+CUST0337,2024-05-16,2024-05,Starter,Annual,Partner,International
+CUST0338,2024-05-08,2024-05,Starter,Monthly,Paid Ads,East
+CUST0339,2024-05-08,2024-05,Starter,Monthly,Partner,West
+CUST0340,2024-06-17,2024-06,Starter,Monthly,Referral,North
+CUST0341,2024-06-26,2024-06,Enterprise,Monthly,Partner,International
+CUST0342,2024-06-02,2024-06,Starter,Annual,Outbound Sales,East
+CUST0343,2024-06-26,2024-06,Starter,Monthly,Organic Search,East
+CUST0344,2024-06-04,2024-06,Starter,Monthly,Partner,East
+CUST0345,2024-06-11,2024-06,Starter,Monthly,Paid Ads,West
+CUST0346,2024-06-06,2024-06,Enterprise,Monthly,Paid Ads,North
+CUST0347,2024-06-02,2024-06,Growth,Annual,Referral,South
+CUST0348,2024-06-02,2024-06,Starter,Monthly,Referral,East
+CUST0349,2024-06-18,2024-06,Growth,Annual,Outbound Sales,East
+CUST0350,2024-06-10,2024-06,Starter,Monthly,Referral,North
+CUST0351,2024-06-04,2024-06,Pro,Monthly,Referral,West
+CUST0352,2024-06-29,2024-06,Pro,Annual,Outbound Sales,East
+CUST0353,2024-06-16,2024-06,Enterprise,Monthly,Referral,International
+CUST0354,2024-06-14,2024-06,Starter,Monthly,Organic Search,West
+CUST0355,2024-06-18,2024-06,Growth,Annual,Referral,East
+CUST0356,2024-06-10,2024-06,Starter,Monthly,Referral,West
+CUST0357,2024-07-23,2024-07,Growth,Monthly,Outbound Sales,Unknown
+CUST0358,2024-07-30,2024-07,Starter,Annual,Referral,International
+CUST0359,2024-07-26,2024-07,Enterprise,Monthly,Organic Search,North
+CUST0360,2024-07-17,2024-07,Growth,Monthly,Paid Ads,North
+CUST0361,2024-07-26,2024-07,Starter,Monthly,Outbound Sales,North
+CUST0362,2024-07-21,2024-07,Starter,Monthly,Referral,East
+CUST0363,2024-07-20,2024-07,Starter,Monthly,Paid Ads,West
+CUST0364,2024-07-25,2024-07,Enterprise,Monthly,Organic Search,International
+CUST0365,2024-07-11,2024-07,Starter,Monthly,Referral,South
+CUST0366,2024-07-06,2024-07,Enterprise,Monthly,Outbound Sales,International
+CUST0367,2024-07-09,2024-07,Starter,Monthly,Referral,West
+CUST0368,2024-07-23,2024-07,Starter,Monthly,Outbound Sales,South
+CUST0369,2024-07-15,2024-07,Starter,Annual,Paid Ads,West
+CUST0370,2024-07-31,2024-07,Enterprise,Annual,Referral,East
+CUST0371,2024-07-10,2024-07,Growth,Monthly,Referral,South
+CUST0372,2024-07-21,2024-07,Growth,Annual,Paid Ads,East
+CUST0373,2024-07-07,2024-07,Growth,Monthly,Paid Ads,South
+CUST0374,2024-07-18,2024-07,Pro,Monthly,Partner,East
+CUST0375,2024-07-05,2024-07,Growth,Annual,Partner,North
+CUST0376,2024-07-23,2024-07,Starter,Monthly,Outbound Sales,International
+CUST0377,2024-07-19,2024-07,Starter,Monthly,Organic Search,South
+CUST0378,2024-08-15,2024-08,Enterprise,Monthly,Outbound Sales,International
+CUST0379,2024-08-25,2024-08,Starter,Annual,Partner,International
+CUST0380,2024-08-14,2024-08,Starter,Annual,Partner,North
+CUST0381,2024-08-10,2024-08,Pro,Monthly,Paid Ads,South
+CUST0382,2024-08-12,2024-08,Starter,Annual,Partner,East
+CUST0383,2024-08-21,2024-08,Pro,Monthly,Partner,East
+CUST0384,2024-08-18,2024-08,Starter,Monthly,Organic Search,International
+CUST0385,2024-08-19,2024-08,Growth,Monthly,Paid Ads,South
+CUST0386,2024-08-20,2024-08,Growth,Annual,Referral,International
+CUST0387,2024-08-03,2024-08,Starter,Annual,Organic Search,International
+CUST0388,2024-08-19,2024-08,Starter,Monthly,Outbound Sales,International
+CUST0389,2024-08-21,2024-08,Growth,Monthly,Partner,East
+CUST0390,2024-08-08,2024-08,Growth,Monthly,Outbound Sales,East
+CUST0391,2024-08-06,2024-08,Growth,Monthly,Outbound Sales,West
+CUST0392,2024-08-20,2024-08,Growth,Monthly,Paid Ads,East
+CUST0393,2024-08-28,2024-08,Pro,Monthly,Referral,West
+CUST0394,2024-09-18,2024-09,Starter,Monthly,Organic Search,East
+CUST0395,2024-09-15,2024-09,Starter,Monthly,Paid Ads,South
+CUST0396,2024-09-13,2024-09,Starter,Monthly,Partner,West
+CUST0397,2024-09-06,2024-09,Starter,Annual,Referral,International
+CUST0398,2024-09-06,2024-09,Growth,Monthly,Outbound Sales,International
+CUST0399,2024-09-16,2024-09,Growth,Annual,Organic Search,North
+CUST0400,2024-09-08,2024-09,Enterprise,Monthly,Unknown,International
+CUST0401,2024-09-16,2024-09,Starter,Monthly,Partner,West
+CUST0402,2024-09-04,2024-09,Starter,Monthly,Outbound Sales,South
+CUST0403,2024-09-25,2024-09,Pro,Annual,Outbound Sales,East
+CUST0404,2024-09-18,2024-09,Starter,Monthly,Paid Ads,East
+CUST0405,2024-09-17,2024-09,Growth,Monthly,Outbound Sales,International
+CUST0406,2024-09-22,2024-09,Starter,Annual,Partner,North
+CUST0407,2024-09-12,2024-09,Starter,Monthly,Referral,International
+CUST0408,2024-09-07,2024-09,Enterprise,Annual,Partner,International
+CUST0409,2024-09-02,2024-09,Starter,Monthly,Paid Ads,East
+CUST0410,2024-09-05,2024-09,Pro,Monthly,Partner,International
+CUST0411,2024-09-11,2024-09,Starter,Annual,Paid Ads,West
+CUST0412,2024-09-10,2024-09,Enterprise,Annual,Partner,East
+CUST0413,2024-09-16,2024-09,Growth,Monthly,Partner,East
+CUST0414,2024-10-11,2024-10,Growth,Monthly,Organic Search,West
+CUST0415,2024-10-24,2024-10,Growth,Annual,Organic Search,International
+CUST0416,2024-10-26,2024-10,Growth,Annual,Partner,International
+CUST0417,2024-10-16,2024-10,Starter,Monthly,Paid Ads,International
+CUST0418,2024-10-27,2024-10,Growth,Monthly,Outbound Sales,South
+CUST0419,2024-10-19,2024-10,Pro,Monthly,Organic Search,South
+CUST0420,2024-10-05,2024-10,Starter,Monthly,Outbound Sales,South
+CUST0421,2024-10-30,2024-10,Starter,Annual,Outbound Sales,North
+CUST0422,2024-10-18,2024-10,Growth,Monthly,Referral,West
+CUST0423,2024-10-06,2024-10,Growth,Monthly,Outbound Sales,International
+CUST0424,2024-10-25,2024-10,Starter,Monthly,Referral,International
+CUST0425,2024-10-09,2024-10,Growth,Annual,Partner,East
+CUST0426,2024-10-10,2024-10,Starter,Annual,Referral,South
+CUST0427,2024-10-16,2024-10,Growth,Monthly,Referral,International
+CUST0428,2024-10-09,2024-10,Enterprise,Annual,Referral,North
+CUST0429,2024-10-29,2024-10,Growth,Monthly,Outbound Sales,East
+CUST0430,2024-10-10,2024-10,Enterprise,Annual,Organic Search,East
+CUST0431,2024-10-30,2024-10,Enterprise,Monthly,Outbound Sales,East
+CUST0432,2024-10-27,2024-10,Growth,Monthly,Partner,East
+CUST0433,2024-10-05,2024-10,Enterprise,Monthly,Organic Search,International
+CUST0434,2024-10-02,2024-10,Growth,Monthly,Partner,South
+CUST0435,2024-10-14,2024-10,Growth,Monthly,Referral,West
+CUST0436,2024-10-01,2024-10,Starter,Annual,Partner,South
+CUST0437,2024-11-29,2024-11,Starter,Annual,Outbound Sales,West
+CUST0438,2024-11-10,2024-11,Growth,Annual,Referral,East
+CUST0439,2024-11-03,2024-11,Growth,Annual,Partner,South
+CUST0440,2024-11-30,2024-11,Growth,Annual,Organic Search,South
+CUST0441,2024-11-30,2024-11,Starter,Annual,Organic Search,West
+CUST0442,2024-11-24,2024-11,Pro,Monthly,Referral,North
+CUST0443,2024-11-04,2024-11,Starter,Monthly,Referral,East
+CUST0444,2024-11-17,2024-11,Growth,Monthly,Outbound Sales,South
+CUST0445,2024-11-07,2024-11,Pro,Monthly,Organic Search,East
+CUST0446,2024-11-09,2024-11,Starter,Monthly,Paid Ads,North
+CUST0447,2024-11-19,2024-11,Growth,Annual,Paid Ads,South
+CUST0448,2024-11-13,2024-11,Growth,Monthly,Outbound Sales,International
+CUST0449,2024-11-04,2024-11,Starter,Monthly,Paid Ads,South
+CUST0450,2024-11-01,2024-11,Growth,Annual,Referral,West
+CUST0451,2024-11-11,2024-11,Starter,Annual,Referral,International
+CUST0452,2024-11-21,2024-11,Growth,Monthly,Referral,South
+CUST0453,2024-11-10,2024-11,Starter,Monthly,Paid Ads,West
+CUST0454,2024-11-29,2024-11,Growth,Annual,Referral,North
+CUST0455,2024-11-12,2024-11,Growth,Annual,Partner,South
+CUST0456,2024-11-05,2024-11,Starter,Monthly,Outbound Sales,International
+CUST0457,2024-11-30,2024-11,Starter,Annual,Outbound Sales,International
+CUST0458,2024-11-25,2024-11,Pro,Annual,Paid Ads,International
+CUST0459,2024-12-15,2024-12,Pro,Monthly,Partner,East
+CUST0460,2024-12-02,2024-12,Starter,Monthly,Partner,International
+CUST0461,2024-12-06,2024-12,Starter,Monthly,Referral,International
+CUST0462,2024-12-23,2024-12,Starter,Monthly,Partner,West
+CUST0463,2024-12-26,2024-12,Starter,Monthly,Organic Search,West
+CUST0464,2024-12-19,2024-12,Starter,Monthly,Organic Search,International
+CUST0465,2024-12-24,2024-12,Growth,Annual,Organic Search,West
+CUST0466,2024-12-07,2024-12,Starter,Monthly,Partner,North
+CUST0467,2024-12-03,2024-12,Starter,Monthly,Partner,North
+CUST0468,2024-12-30,2024-12,Enterprise,Monthly,Outbound Sales,Unknown
+CUST0469,2024-12-05,2024-12,Starter,Monthly,Outbound Sales,East
+CUST0470,2024-12-28,2024-12,Enterprise,Monthly,Outbound Sales,West
+CUST0471,2024-12-28,2024-12,Starter,Annual,Partner,South
+CUST0472,2024-12-06,2024-12,Growth,Monthly,Partner,West
+CUST0473,2024-12-08,2024-12,Growth,Annual,Organic Search,North
+CUST0474,2024-12-24,2024-12,Enterprise,Monthly,Partner,West
+CUST0475,2024-12-08,2024-12,Growth,Annual,Outbound Sales,East
+CUST0476,2025-01-29,2025-01,Starter,Monthly,Organic Search,North
+CUST0477,2025-01-25,2025-01,Pro,Monthly,Organic Search,South
+CUST0478,2025-01-02,2025-01,Starter,Monthly,Outbound Sales,International
+CUST0479,2025-01-08,2025-01,Growth,Annual,Organic Search,West
+CUST0480,2025-01-25,2025-01,Starter,Monthly,Organic Search,South
+CUST0481,2025-01-27,2025-01,Growth,Monthly,Partner,East
+CUST0482,2025-01-27,2025-01,Growth,Annual,Referral,South
+CUST0483,2025-01-22,2025-01,Starter,Monthly,Partner,South
+CUST0484,2025-01-18,2025-01,Starter,Monthly,Partner,South
+CUST0485,2025-01-16,2025-01,Growth,Monthly,Organic Search,East
+CUST0486,2025-01-26,2025-01,Enterprise,Monthly,Partner,East
+CUST0487,2025-01-10,2025-01,Growth,Monthly,Outbound Sales,South
+CUST0488,2025-01-28,2025-01,Pro,Monthly,Paid Ads,East
+CUST0489,2025-01-15,2025-01,Pro,Monthly,Organic Search,International
+CUST0490,2025-01-17,2025-01,Starter,Monthly,Paid Ads,West
+CUST0491,2025-01-21,2025-01,Starter,Monthly,Organic Search,West
+CUST0492,2025-01-24,2025-01,Pro,Monthly,Paid Ads,North
+CUST0493,2025-01-20,2025-01,Starter,Monthly,Organic Search,North
+CUST0494,2025-01-24,2025-01,Starter,Annual,Partner,South
+CUST0495,2025-01-11,2025-01,Growth,Annual,Referral,North
+CUST0496,2025-01-24,2025-01,Starter,Monthly,Organic Search,West
+CUST0497,2025-01-23,2025-01,Pro,Monthly,Paid Ads,West
+CUST0498,2025-02-25,2025-02,Pro,Monthly,Referral,West
+CUST0499,2025-02-10,2025-02,Growth,Monthly,Referral,East
+CUST0500,2025-02-04,2025-02,Growth,Monthly,Outbound Sales,East
+CUST0501,2025-02-14,2025-02,Pro,Monthly,Organic Search,International
+CUST0502,2025-02-01,2025-02,Pro,Annual,Referral,International
+CUST0503,2025-02-14,2025-02,Enterprise,Monthly,Referral,South
+CUST0504,2025-02-19,2025-02,Starter,Monthly,Paid Ads,West
+CUST0505,2025-02-11,2025-02,Growth,Annual,Referral,West
+CUST0506,2025-02-16,2025-02,Enterprise,Monthly,Outbound Sales,South
+CUST0507,2025-02-05,2025-02,Growth,Monthly,Partner,West
+CUST0508,2025-02-21,2025-02,Starter,Annual,Organic Search,International
+CUST0509,2025-02-27,2025-02,Starter,Annual,Organic Search,North
+CUST0510,2025-02-08,2025-02,Starter,Annual,Organic Search,South
+CUST0511,2025-02-12,2025-02,Starter,Monthly,Organic Search,International
+CUST0512,2025-02-16,2025-02,Growth,Annual,Outbound Sales,North
+CUST0513,2025-02-01,2025-02,Starter,Monthly,Organic Search,International
+CUST0514,2025-02-10,2025-02,Growth,Monthly,Organic Search,International
+CUST0515,2025-02-26,2025-02,Pro,Monthly,Paid Ads,North
+CUST0516,2025-02-08,2025-02,Pro,Monthly,Paid Ads,International
+CUST0517,2025-02-09,2025-02,Growth,Annual,Outbound Sales,North
+CUST0518,2025-03-19,2025-03,Starter,Monthly,Paid Ads,South
+CUST0519,2025-03-03,2025-03,Starter,Annual,Organic Search,North
+CUST0520,2025-03-16,2025-03,Starter,Monthly,Organic Search,North
+CUST0521,2025-03-28,2025-03,Growth,Monthly,Outbound Sales,East
+CUST0522,2025-03-04,2025-03,Growth,Annual,Partner,North
+CUST0523,2025-03-23,2025-03,Starter,Annual,Partner,West
+CUST0524,2025-03-22,2025-03,Starter,Annual,Referral,International
+CUST0525,2025-03-30,2025-03,Growth,Monthly,Unknown,North
+CUST0526,2025-03-25,2025-03,Enterprise,Monthly,Outbound Sales,North
+CUST0527,2025-03-19,2025-03,Starter,Monthly,Outbound Sales,International
+CUST0528,2025-03-05,2025-03,Starter,Annual,Organic Search,International
+CUST0529,2025-03-04,2025-03,Growth,Monthly,Outbound Sales,South
+CUST0530,2025-03-25,2025-03,Pro,Monthly,Partner,International
+CUST0531,2025-03-01,2025-03,Starter,Annual,Referral,West
+CUST0532,2025-03-31,2025-03,Growth,Monthly,Outbound Sales,West
+CUST0533,2025-03-13,2025-03,Starter,Monthly,Organic Search,International
+CUST0534,2025-03-03,2025-03,Starter,Monthly,Organic Search,East
+CUST0535,2025-03-21,2025-03,Starter,Annual,Paid Ads,West
+CUST0536,2025-03-01,2025-03,Starter,Monthly,Referral,West
+CUST0537,2025-04-05,2025-04,Starter,Monthly,Organic Search,South
+CUST0538,2025-04-17,2025-04,Starter,Monthly,Outbound Sales,North
+CUST0539,2025-04-03,2025-04,Starter,Monthly,Partner,International
+CUST0540,2025-04-01,2025-04,Pro,Annual,Referral,West
+CUST0541,2025-04-29,2025-04,Starter,Monthly,Partner,South
+CUST0542,2025-04-13,2025-04,Growth,Monthly,Paid Ads,South
+CUST0543,2025-04-05,2025-04,Starter,Monthly,Organic Search,South
+CUST0544,2025-04-16,2025-04,Starter,Monthly,Organic Search,East
+CUST0545,2025-04-21,2025-04,Starter,Monthly,Outbound Sales,International
+CUST0546,2025-04-05,2025-04,Growth,Monthly,Referral,North
+CUST0547,2025-04-20,2025-04,Enterprise,Monthly,Outbound Sales,East
+CUST0548,2025-04-27,2025-04,Starter,Monthly,Partner,South
+CUST0549,2025-04-23,2025-04,Starter,Monthly,Paid Ads,West
+CUST0550,2025-04-11,2025-04,Starter,Annual,Referral,West
+CUST0551,2025-04-11,2025-04,Enterprise,Annual,Outbound Sales,East
+CUST0552,2025-04-04,2025-04,Pro,Monthly,Partner,South
+CUST0553,2025-04-22,2025-04,Growth,Monthly,Partner,North
+CUST0554,2025-04-23,2025-04,Enterprise,Monthly,Paid Ads,West
+CUST0555,2025-04-03,2025-04,Pro,Annual,Outbound Sales,West
+CUST0556,2025-04-09,2025-04,Starter,Monthly,Paid Ads,West
+CUST0557,2025-05-20,2025-05,Pro,Monthly,Outbound Sales,International
+CUST0558,2025-05-30,2025-05,Starter,Monthly,Outbound Sales,International
+CUST0559,2025-05-23,2025-05,Starter,Annual,Partner,International
+CUST0560,2025-05-25,2025-05,Growth,Monthly,Paid Ads,East
+CUST0561,2025-05-19,2025-05,Starter,Monthly,Outbound Sales,East
+CUST0562,2025-05-01,2025-05,Enterprise,Monthly,Organic Search,East
+CUST0563,2025-05-18,2025-05,Starter,Annual,Partner,International
+CUST0564,2025-05-15,2025-05,Starter,Monthly,Partner,International
+CUST0565,2025-05-16,2025-05,Starter,Annual,Organic Search,East
+CUST0566,2025-05-04,2025-05,Starter,Annual,Paid Ads,East
+CUST0567,2025-05-07,2025-05,Starter,Monthly,Partner,West
+CUST0568,2025-05-24,2025-05,Starter,Monthly,Outbound Sales,East
+CUST0569,2025-05-23,2025-05,Starter,Monthly,Organic Search,North
+CUST0570,2025-05-22,2025-05,Pro,Monthly,Paid Ads,South
+CUST0571,2025-05-11,2025-05,Growth,Monthly,Partner,West
+CUST0572,2025-05-13,2025-05,Enterprise,Monthly,Paid Ads,South
+CUST0573,2025-05-01,2025-05,Growth,Monthly,Partner,South
+CUST0574,2025-05-01,2025-05,Starter,Monthly,Paid Ads,South
+CUST0575,2025-05-26,2025-05,Starter,Annual,Organic Search,International
+CUST0576,2025-06-06,2025-06,Starter,Annual,Referral,East
+CUST0577,2025-06-22,2025-06,Starter,Monthly,Outbound Sales,International
+CUST0578,2025-06-13,2025-06,Enterprise,Monthly,Partner,West
+CUST0579,2025-06-28,2025-06,Growth,Monthly,Outbound Sales,International
+CUST0580,2025-06-26,2025-06,Starter,Monthly,Referral,International
+CUST0581,2025-06-11,2025-06,Growth,Monthly,Organic Search,South
+CUST0582,2025-06-23,2025-06,Starter,Monthly,Paid Ads,International
+CUST0583,2025-06-19,2025-06,Starter,Monthly,Outbound Sales,West
+CUST0584,2025-06-23,2025-06,Starter,Monthly,Paid Ads,International
+CUST0585,2025-06-06,2025-06,Starter,Monthly,Referral,West
+CUST0586,2025-06-01,2025-06,Growth,Annual,Outbound Sales,South
+CUST0587,2025-06-18,2025-06,Starter,Monthly,Partner,West
+CUST0588,2025-06-23,2025-06,Starter,Monthly,Outbound Sales,West
+CUST0589,2025-06-26,2025-06,Starter,Monthly,Paid Ads,East
+CUST0590,2025-07-10,2025-07,Starter,Monthly,Paid Ads,West
+CUST0591,2025-07-16,2025-07,Growth,Annual,Partner,International
+CUST0592,2025-07-25,2025-07,Starter,Monthly,Partner,East
+CUST0593,2025-07-25,2025-07,Growth,Annual,Outbound Sales,International
+CUST0594,2025-07-24,2025-07,Starter,Monthly,Paid Ads,East
+CUST0595,2025-07-09,2025-07,Pro,Monthly,Referral,North
+CUST0596,2025-07-25,2025-07,Starter,Annual,Paid Ads,South
+CUST0597,2025-07-12,2025-07,Pro,Monthly,Partner,West
+CUST0598,2025-07-07,2025-07,Starter,Monthly,Paid Ads,North
+CUST0599,2025-07-20,2025-07,Growth,Monthly,Partner,South
+CUST0600,2025-07-10,2025-07,Starter,Annual,Partner,East
+CUST0601,2025-07-29,2025-07,Enterprise,Monthly,Organic Search,South
+CUST0602,2025-07-30,2025-07,Enterprise,Annual,Organic Search,East
+CUST0603,2025-07-28,2025-07,Pro,Monthly,Paid Ads,South
+CUST0604,2025-07-08,2025-07,Starter,Monthly,Outbound Sales,West
+CUST0605,2025-07-21,2025-07,Starter,Monthly,Outbound Sales,West
+CUST0606,2025-07-29,2025-07,Growth,Monthly,Organic Search,West
+CUST0607,2025-07-30,2025-07,Growth,Monthly,Referral,West
+CUST0608,2025-07-01,2025-07,Enterprise,Monthly,Organic Search,West
+CUST0609,2025-07-28,2025-07,Growth,Monthly,Organic Search,International
+CUST0610,2025-07-27,2025-07,Starter,Annual,Paid Ads,West
+CUST0611,2025-07-11,2025-07,Starter,Annual,Partner,International
+CUST0612,2025-07-26,2025-07,Starter,Annual,Referral,North
+CUST0613,2025-08-27,2025-08,Starter,Monthly,Outbound Sales,North
+CUST0614,2025-08-15,2025-08,Starter,Annual,Outbound Sales,North
+CUST0615,2025-08-23,2025-08,Enterprise,Monthly,Paid Ads,East
+CUST0616,2025-08-09,2025-08,Starter,Annual,Organic Search,East
+CUST0617,2025-08-29,2025-08,Starter,Monthly,Paid Ads,North
+CUST0618,2025-08-23,2025-08,Starter,Monthly,Paid Ads,West
+CUST0619,2025-08-01,2025-08,Growth,Annual,Paid Ads,West
+CUST0620,2025-08-17,2025-08,Starter,Monthly,Outbound Sales,North
+CUST0621,2025-08-04,2025-08,Starter,Monthly,Outbound Sales,South
+CUST0622,2025-09-03,2025-09,Growth,Monthly,Organic Search,North
+CUST0623,2025-09-05,2025-09,Starter,Annual,Outbound Sales,South
+CUST0624,2025-09-03,2025-09,Growth,Monthly,Partner,International
+CUST0625,2025-09-15,2025-09,Starter,Monthly,Referral,South
+CUST0626,2025-09-14,2025-09,Growth,Monthly,Partner,West
+CUST0627,2025-09-04,2025-09,Pro,Monthly,Paid Ads,North
+CUST0628,2025-09-14,2025-09,Growth,Monthly,Referral,South
+CUST0629,2025-09-08,2025-09,Starter,Monthly,Partner,International
+CUST0630,2025-09-25,2025-09,Growth,Monthly,Organic Search,East
+CUST0631,2025-09-07,2025-09,Starter,Monthly,Outbound Sales,East
+CUST0632,2025-09-26,2025-09,Growth,Annual,Paid Ads,West
+CUST0633,2025-09-21,2025-09,Starter,Monthly,Partner,North
+CUST0634,2025-09-12,2025-09,Growth,Annual,Referral,South
+CUST0635,2025-09-14,2025-09,Starter,Annual,Referral,International
+CUST0636,2025-09-25,2025-09,Growth,Annual,Organic Search,North
+CUST0637,2025-10-07,2025-10,Growth,Monthly,Organic Search,North
+CUST0638,2025-10-10,2025-10,Enterprise,Monthly,Partner,West
+CUST0639,2025-10-21,2025-10,Starter,Monthly,Partner,International
+CUST0640,2025-10-10,2025-10,Growth,Monthly,Organic Search,International
+CUST0641,2025-10-05,2025-10,Pro,Annual,Partner,East
+CUST0642,2025-10-27,2025-10,Starter,Monthly,Organic Search,East
+CUST0643,2025-10-28,2025-10,Growth,Annual,Paid Ads,North
+CUST0644,2025-10-04,2025-10,Starter,Annual,Outbound Sales,International
+CUST0645,2025-10-24,2025-10,Growth,Monthly,Paid Ads,North
+CUST0646,2025-10-01,2025-10,Starter,Monthly,Paid Ads,West
+CUST0647,2025-10-26,2025-10,Enterprise,Monthly,Referral,South
+CUST0648,2025-10-28,2025-10,Starter,Annual,Referral,North
+CUST0649,2025-10-26,2025-10,Pro,Monthly,Outbound Sales,East
+CUST0650,2025-10-19,2025-10,Growth,Monthly,Organic Search,West
+CUST0651,2025-10-16,2025-10,Growth,Monthly,Partner,South
+CUST0652,2025-10-04,2025-10,Starter,Monthly,Partner,North
+CUST0653,2025-10-02,2025-10,Starter,Monthly,Organic Search,South
+CUST0654,2025-10-30,2025-10,Starter,Monthly,Paid Ads,South
+CUST0655,2025-10-18,2025-10,Enterprise,Annual,Outbound Sales,South
+CUST0656,2025-10-24,2025-10,Starter,Monthly,Referral,East
+CUST0657,2025-10-04,2025-10,Pro,Monthly,Partner,North
+CUST0658,2025-10-02,2025-10,Starter,Annual,Outbound Sales,North
+CUST0659,2025-10-25,2025-10,Pro,Annual,Referral,East
+CUST0660,2025-10-12,2025-10,Starter,Monthly,Paid Ads,East
+CUST0661,2025-10-20,2025-10,Growth,Monthly,Paid Ads,West
+CUST0662,2025-10-25,2025-10,Starter,Annual,Paid Ads,International
+CUST0663,2025-10-01,2025-10,Pro,Monthly,Outbound Sales,North
+CUST0664,2025-10-27,2025-10,Starter,Monthly,Organic Search,East
+CUST0665,2025-10-28,2025-10,Starter,Monthly,Referral,North
+CUST0666,2025-10-14,2025-10,Starter,Annual,Outbound Sales,North
+CUST0667,2025-11-09,2025-11,Enterprise,Monthly,Organic Search,North
+CUST0668,2025-11-17,2025-11,Pro,Annual,Outbound Sales,East
+CUST0669,2025-11-19,2025-11,Growth,Annual,Organic Search,International
+CUST0670,2025-11-03,2025-11,Starter,Annual,Partner,International
+CUST0671,2025-11-05,2025-11,Starter,Monthly,Paid Ads,East
+CUST0672,2025-11-26,2025-11,Starter,Monthly,Outbound Sales,East
+CUST0673,2025-11-03,2025-11,Starter,Monthly,Paid Ads,South
+CUST0674,2025-11-05,2025-11,Pro,Monthly,Organic Search,South
+CUST0675,2025-11-04,2025-11,Starter,Monthly,Partner,East
+CUST0676,2025-11-10,2025-11,Enterprise,Monthly,Outbound Sales,East
+CUST0677,2025-11-26,2025-11,Pro,Monthly,Referral,International
+CUST0678,2025-11-11,2025-11,Starter,Annual,Paid Ads,North
+CUST0679,2025-11-13,2025-11,Growth,Annual,Partner,North
+CUST0680,2025-11-06,2025-11,Growth,Monthly,Organic Search,West
+CUST0681,2025-11-18,2025-11,Pro,Monthly,Paid Ads,North
+CUST0682,2025-11-05,2025-11,Growth,Annual,Organic Search,North
+CUST0683,2025-11-08,2025-11,Starter,Annual,Paid Ads,South
+CUST0684,2025-11-21,2025-11,Pro,Monthly,Organic Search,International
+CUST0685,2025-11-03,2025-11,Growth,Annual,Organic Search,North
+CUST0686,2025-11-26,2025-11,Starter,Monthly,Paid Ads,North
+CUST0687,2025-12-11,2025-12,Pro,Annual,Organic Search,North
+CUST0688,2025-12-30,2025-12,Enterprise,Monthly,Partner,West
+CUST0689,2025-12-01,2025-12,Pro,Monthly,Outbound Sales,West
+CUST0690,2025-12-06,2025-12,Starter,Monthly,Referral,East
+CUST0691,2025-12-20,2025-12,Starter,Monthly,Partner,International
+CUST0692,2025-12-14,2025-12,Starter,Monthly,Partner,West
+CUST0693,2025-12-05,2025-12,Starter,Monthly,Outbound Sales,South
+CUST0694,2025-12-08,2025-12,Growth,Annual,Partner,North
+CUST0695,2025-12-12,2025-12,Enterprise,Annual,Outbound Sales,International
+CUST0696,2025-12-19,2025-12,Pro,Monthly,Partner,East
+CUST0697,2025-12-11,2025-12,Starter,Monthly,Partner,South
+CUST0698,2025-12-09,2025-12,Starter,Annual,Organic Search,West
+CUST0699,2025-12-08,2025-12,Growth,Annual,Paid Ads,North
+CUST0700,2025-12-18,2025-12,Starter,Monthly,Organic Search,South
+CUST0701,2025-12-13,2025-12,Growth,Annual,Referral,South
+CUST0702,2025-12-26,2025-12,Starter,Monthly,Referral,International
+CUST0703,2025-12-31,2025-12,Starter,Annual,Partner,International
+CUST0704,2025-12-27,2025-12,Starter,Annual,Outbound Sales,International
+CUST0705,2025-12-03,2025-12,Starter,Monthly,Organic Search,South
+CUST0706,2025-12-16,2025-12,Growth,Monthly,Organic Search,East
+CUST0707,2025-12-05,2025-12,Pro,Monthly,Referral,South
+CUST0708,2025-12-11,2025-12,Pro,Annual,Organic Search,North
