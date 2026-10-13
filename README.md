@@ -51,7 +51,7 @@ Tracks revenue performance and customer activity.
 - Cumulative MRR trend
 - Monthly revenue movement by event type
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](screenshot/executive_summary.png)
 
 ### 2. Customer Retention & Churn Analysis
 
@@ -64,7 +64,7 @@ Explores customer retention and churn across different segments.
 - Churn by acquisition channel
 - Churn by initial plan and billing cycle
 
-![Customer Retention and Churn](screenshots/cohort_segment.png)
+![Customer Retention and Churn](screenshot/cohort_segment.png)
 
 ### 3. Monthly Revenue Movement
 
@@ -79,7 +79,7 @@ Breaks down the factors that contribute to changes in recurring revenue.
 - Ending MRR
 - Daily Net New MRR trend
 
-![MRR Waterfall](screenshots/mrr_waterfall.png)
+![MRR Waterfall](screenshot/mrr_waterfall.png)
 
 ## Key Analysis Areas
 
